@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T00:00:00.000Z",
+  "updatedAt": "2026-09-16T07:11:22.303Z",
   "items": [
     {
       "id": "news_1",
@@ -32,6 +32,14 @@
       "image": "",
       "date": "2026-09-10",
       "timestamp": 4
+    },
+    {
+      "id": "news_1789542682303",
+      "title": "New khabar",
+      "content": "Ye new khabar test karane ke liye",
+      "date": "2026-09-16",
+      "image": "",
+      "timestamp": 1789542682303
     }
   ]
 }
