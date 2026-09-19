@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:20:29.697Z",
+  "updatedAt": "2026-09-19T14:05:56.686Z",
   "items": [
     {
       "id": "news_1",
@@ -32,14 +32,6 @@
       "image": "",
       "date": "2026-09-10",
       "timestamp": 4
-    },
-    {
-      "id": "news_1789755629697",
-      "title": "New tesr",
-      "content": "This is the test",
-      "date": "2026-09-18",
-      "image": "",
-      "timestamp": 1789755629697
     }
   ]
 }
